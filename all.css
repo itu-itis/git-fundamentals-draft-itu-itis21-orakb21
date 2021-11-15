@@ -6,7 +6,7 @@ h1 {
 	}
 
 em {
-	font-style = normal !important;
+	font-style = normal;
 	color: green;
 	background-color = lightgrey;
 	font-weight: bold;
