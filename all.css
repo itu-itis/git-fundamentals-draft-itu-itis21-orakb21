@@ -1,13 +1,13 @@
 h1 {
-	font-size = 24pt;
 	color: red;
+	font-size = 24 pt;
 	text-decoration: underline;
-	font-family: tahoma, helvetica, sans-serif;
-	}
+	font-family: Tahoma, Helvetica, sans-serif;
+}
 
 em {
-	font-style = normal;
 	color: green;
+	font-style = normal;
 	background-color = lightgrey;
 	font-weight: bold;
 }
